@@ -1,0 +1,9 @@
+# Binaries
+ostersonntag
+ostersonntag.exe
+*.o
+*.obj
+
+# Amiga spezifisch
+*.adf
+*.info

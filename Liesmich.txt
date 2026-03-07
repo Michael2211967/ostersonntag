@@ -1,0 +1,16 @@
+Die ostersonntag.exe ist leider ein wenig beschränkter, als
+ich es gerne gehabt hätte.
+
+Das behebt die Python-Version ostersonntag.py dramatisch 
+besser als der 32-Bit-Compiler von Mingw. Nachteil besteht
+bei der Lösung, daß Python eine interpretierte Sprache, nicht
+wie C compiliert wird.
+
+Deshalb ist es erforderlich für den Einsatz der ostersonntag.py
+erstmal Python von www.python.org herunter zu laden und zu
+installieren.
+
+Als Alternative zum Download von Python von python.org wäre noch
+die Möglichkeit unter Windows 11 mit WinGet zu nennen:
+
+    winget install Python.Python.3.12
