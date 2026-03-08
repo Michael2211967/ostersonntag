@@ -19,10 +19,13 @@ Dieses Projekt nutzt das Repository mod als Submodule für Hilfsfunktionen (wie 
 
 Um das Projekt inklusive der benötigten Tools zu klonen, verwende bitte:
 
-```bash git clone --recursive https://github.com/Michael2211967/ostersonntag.git```
+```bash
+git clone --recursive https://github.com/Michael2211967/ostersonntag.git
+```
 
 ## Alternativ (falls du bereits normal geklont hast):
 
 ```bash
 cd ostersonntag
-git submodule update --init --recursive```
+git submodule update --init --recursive
+```
