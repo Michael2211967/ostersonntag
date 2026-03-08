@@ -8,7 +8,6 @@
 time_t get_easter(int year)
 {
   struct tm t = {0};
-  int mon, tag;
 
   int m,n,a,b,c,d,e,f,g;
   switch(year/100)

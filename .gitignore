@@ -1,6 +1,7 @@
 # Binaries
 ostersonntag
 ostersonntag.exe
+mod/*.o
 *.o
 *.obj
 
